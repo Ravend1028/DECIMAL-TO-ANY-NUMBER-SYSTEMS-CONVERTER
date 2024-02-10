@@ -1,3 +1,3 @@
-# DECIMAL TO ANY NUMBER SYSTEMS USING JAVA SWING
+# DECIMAL-TO-ANY-NUMBER-SYSTEMS-USING-JAVA-SWING
 
 This Java GUI program built with the Swing library serves as a handy tool for converting decimal numbers to various number systems. With a user-friendly interface, it allows effortless conversion between decimal and binary, octal, hexadecimal, or any custom base of your choice. Simply input the decimal number, select the desired output base, and the program instantly generates the equivalent representation. Whether you're a student, developer, or enthusiast, this tool streamlines the process of number system conversion, enhancing your coding and learning experience. Explore the code, contribute, and customize it to suit your needs. Happy converting!
